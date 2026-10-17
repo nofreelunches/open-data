@@ -32,6 +32,8 @@ python -m pytest
 
 `golem_sources.fred.FredClient` downloads one series from the FRED API. The walkthrough is [How a FRED series is pulled](tutorials/01-pull-a-fred-series.md). The script is `examples/pull_fred_series.py`.
 
+This product uses the FRED® API but is not endorsed or certified by the Federal Reserve Bank of St. Louis.
+
 ```bash
 python examples/pull_fred_series.py
 ```
