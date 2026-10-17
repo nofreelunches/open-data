@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code or these data recipes, cite a tagged release."
+title: "No Free Lunch open data"
+authors:
+  - name: "No Free Lunch"
+license: MIT
+repository-code: "https://github.com/nofreelunches/open-data"
+version: "0.1.0"
